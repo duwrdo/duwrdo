@@ -9,8 +9,8 @@
 <div class=learneds style="display:inline-block", >
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML"
+    alt="CSS"
+    title="CSS"
     width="50px"
     heigth="50px"
     style="padding-right: 10px;"
@@ -26,8 +26,8 @@
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML"
+    alt="JavaScript"
+    title="JavaScript"
     width="50px"
     heigth="50px"
     style="padding-right: 10px;"
