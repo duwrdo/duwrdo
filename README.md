@@ -32,14 +32,7 @@
     heigth="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-    <br>
-    <br>
-</div>
-
----
-#### **tecnologias que irei aprender:**
-<div class=notlearneds style="display:inline-block", >
-    <img     
+<img     
     align="left" 
     alt="React"
     title="React"
@@ -47,6 +40,21 @@
     heigth="50px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript"
+    width="50px"
+    heigth="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+    <br>
+    <br>
+</div>
+
+---
+#### **tecnologias que irei aprender:**
+<div class=notlearneds style="display:inline-block", >
     <img
     align="left" 
     alt="Python"
@@ -86,14 +94,6 @@
     heigth="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-    <img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript"
-    width="50px"
-    heigth="50px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
   <br>
 </div>
 <br>
